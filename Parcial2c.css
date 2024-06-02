@@ -1,0 +1,114 @@
+body{
+background-color:#111110;
+background-size: 100vw 100vh;
+background-attachment: fixed;
+}
+
+h1{
+font-family: Chiller;
+color: #8076FE;
+font-size: 50px;
+margin-top: 0px;
+text-align:center;
+}
+
+.Titulo{
+background-color: #99FBAF;
+background-position-x:center;
+background-position-y:center;
+background-size: 1100px;
+width: 100%;
+height: 145px;
+border: 1px solid #999999;
+padding: 1px;
+text-align: center;
+}
+
+.Cuerpo{
+background-color:pink ;
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 70%;
+height: 500%;
+border: 1px solid #999999;
+padding-left: 15px;
+padding-right: 15px;
+display: inline-block;
+font-size: 18px;
+font-family: spectral;
+}
+
+.footer {
+float: none;
+width: 100%;
+height: 110px;
+border: 1px solid #999999;
+background:#F7F7BE;
+display: inline-block
+}
+
+.imagenes{
+background-color:#99FBE3 ;
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 27.75%;
+height: 1818px;
+border: 1px solid #999999;
+float:right;
+}
+
+
+.i1{
+width:200px;
+height:200px;
+border-radius:10px;
+float:right;
+}
+
+img{
+width:200px;
+height:200px;
+border-radius:10px;
+margin:auto;
+display:block;
+}
+
+
+video{
+width:200px;
+height:200px;
+border-radius:10px;
+margin:auto;
+display:block;
+}
+
+.v2{
+width:200px;
+height:200px;
+border-radius:10px;
+float:right;
+}
+
+h2{
+font-family: Chiller;
+color:#FE76E3;
+font-size: 30px;
+margin-top: 0px;
+text-align:center;
+}
+
+
+li{
+color:#FE03AA;
+font-family:Courier;
+font-size:15px;
+}
+
+#final{
+color:#B373F7;
+font-family:courier;
+font-size:15;
+text-align:center;
+}
