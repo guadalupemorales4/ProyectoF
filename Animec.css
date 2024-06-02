@@ -1,0 +1,165 @@
+body{
+background-color:#111110;
+background-size: 100vw 100vh;
+background-attachment: fixed;
+}
+
+h1{
+font-family: Chiller;
+color: white;
+font-size: 50px;
+margin-top: 0px;
+text-align:center;
+}
+
+.Titulo{
+background-image: url(./imagenes/fondo1.jpg);
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 97%;
+height: 100%;
+border: 1px solid #999999;
+padding-left: 15px;
+padding-right: 15px;
+display: inline-block;
+font-size: 18px;
+font-family: spectral;
+}
+
+
+.lista{
+background:#91D8FE;
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 97%;
+height: 100%;
+border: 1px solid #999999;
+padding-left: 15px;
+padding-right: 15px;
+display: inline-block;
+font-size: 18px;
+font-family: spectral;
+} 
+.vi{
+background-image: url(./imagenes/fondo3.webp);
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 97%;
+height: 100%;
+border: 1px solid #999999;
+padding-left: 15px;
+padding-right: 15px;
+display: inline-block;
+font-size: 18px;
+font-family: spectral;
+}
+.links{
+background-image: url(./imagenes/fondo4.jpeg);
+background-position:center;
+background-size: contain;
+background-size: cover;
+width: 97%;
+height: 100%;
+border: 1px solid #999999;
+padding-left: 15px;
+padding-right: 15px;
+display: inline-block;
+font-size: 18px;
+font-family: spectral;
+}
+
+p{
+color:#B373F7;
+font-family:courier;
+font-size:15;
+text-align:center;
+}
+
+
+.iz{
+width:200px;
+height:200px;
+border-radius:10px;
+float:left;
+}
+
+img{
+width:250px;
+height:250px;
+margin:auto;
+display:block;
+}
+
+.im1{
+width:400px;
+height:400px;
+border-radius:10px;
+float:right;
+}
+.de{
+width:200px;
+height:200px;
+border-radius:10px;
+float:right;
+}
+video{
+width:400px;
+height:400px;
+border-radius:10px;
+}
+
+
+h2{
+font-family: Chiller;
+color: red;
+font-size: 20x;
+margin-top: 0px;
+}
+
+.sub1{
+font-family: Chiller;
+color: red;
+font-size: 20px;
+margin-top: 0px;
+text-align:right;
+}
+
+.hh{
+font-family: Chiller;
+color: red;
+font-size: 20px;
+margin-top: 0px;
+float:left;
+}
+ul{
+color:#FE03AA;
+text-align:right;
+font-family:Courier;
+font-size:15px;
+list-style-position:inside;
+}
+
+ol{
+color:#FE03AA;
+font-family:Courier;
+font-size:15px;
+}
+
+a{
+color:#D701F9;
+}
+
+.aa{
+color:#D701F9;
+float:right;
+}
+
+h6{
+color:#FE03AA;
+text-align:right;
+font-family:Courier;
+font-size:15px;
+}
